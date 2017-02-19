@@ -43,8 +43,8 @@ angular.module('galleryApp', [])
     };
 
     gallery.hope_finish_date_text = {
-      ro: "Dar personal doresc să fie gata la 13.08.2017.",
-      en: "But I want to have it finished in 13.08.2017."
+      ro: "Vrem să fie gata în 30.04.2017.",
+      en: "We want to have it finished in 30.04.2017."
     };
 
     gallery.title = {
@@ -79,12 +79,12 @@ angular.module('galleryApp', [])
 
     gallery.credits = {
       title: {
-        ro: "Mulțumiri",
-        en: "Thanks"
+        ro: "Despre",
+        en: "About"
       },
       text: {
-        ro: "Textul în română (traducerea Dumitru Cornilescu a Bibliei) vine de la biblia.ro.",
-        en: "Used KJV Bible - online version at www.kingjamesbibleonline.org."
+        ro: "Proiect coordonat de Adriana Precup.",
+        en: "A project coordinated by Adriana Precup."
       }
     };
 
