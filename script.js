@@ -131,6 +131,321 @@ angular.module('galleryApp', [])
           en: "Text here"
         }
       },
+      {
+        id: 1,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 2,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 3,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 4,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 5,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 6,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 7,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 8,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 9,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 10,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 11,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 12,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 13,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 14,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 15,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 16,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 17,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 18,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 19,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 20,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 21,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 22,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 23,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 24,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 25,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 26,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 27,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 28,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 29,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 30,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 31,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 32,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 33,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 34,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      },
+      {
+        id: 35,
+        img: 'ZZ.png',
+        done: 0,
+        text: {
+          ro: "Text aici",
+          en: "Text here"
+        }
+      }
     ];
 
     gallery.estimate_remaining_text = {
