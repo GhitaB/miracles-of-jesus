@@ -4,7 +4,7 @@ angular.module('galleryApp', [])
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
     gallery.worked_hours_a = 6;  // EDIT HERE
-    gallery.worked_hours_g = 1;  // EDIT HERE
+    gallery.worked_hours_g = 2;  // EDIT HERE
     gallery.worked_hours = gallery.worked_hours_a + gallery.worked_hours_g;
 
     gallery.get_global_progress = function() {
@@ -142,11 +142,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Apa transformată în vin",
-          en: "Text here"
+          en: "Changing water into wine"
         },
         text: {
           ro: "Ioan 2:1-11",
-          en: "Text here"
+          en: "John 2:1-11"
         }
       },
       {
@@ -155,11 +155,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea fiului slujbașului împărătesc",
-          en: "Text here"
+          en: "Healing of the royal official's son"
         },
         text: {
           ro: "Ioan 4:46-53",
-          en: "Text here"
+          en: "John 4:46-53"
         }
       },
       {
@@ -168,11 +168,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Pescuirea minunată",
-          en: "Text here"
+          en: "Catching a large number of fish"
         },
         text: {
           ro: "Luca 5:1-11",
-          en: "Text here"
+          en: "Luke 5:1-11"
         }
       },
       {
@@ -181,11 +181,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea leprosului",
-          en: "Text here"
+          en: "Healing a leper"
         },
         text: {
           ro: "Marcu 1:40-45",
-          en: "Text here"
+          en: "Mark 1:40-45"
         }
       },
       {
@@ -194,11 +194,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea robului sutașului roman",
-          en: "Text here"
+          en: "Miracle of healing a centurion's servant"
         },
         text: {
           ro: "Luca 7:1-10",
-          en: "Text here"
+          en: "Luke 7:1-10"
         }
       },
       {
@@ -207,11 +207,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Învierea fiului văduvei din Nain",
-          en: "Text here"
+          en: "Raising of the son of the widow of Nain"
         },
         text: {
           ro: "Luca 7:11-17",
-          en: "Text here"
+          en: "Luke 7:11-17"
         }
       },
       {
@@ -220,11 +220,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea îndrăcitului la Capernaum",
-          en: "Text here"
+          en: "Healing of the Capernaum demoniac"
         },
         text: {
           ro: "Luca 4:31-37",
-          en: "Text here"
+          en: "Luke 4:31-37"
         }
       },
       {
@@ -233,11 +233,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea soacrei lui Petru",
-          en: "Text here"
+          en: "Healing of Peter's mother-in-law"
         },
         text: {
           ro: "Marcu 1:29-31",
-          en: "Text here"
+          en: "Mark 1:29-31"
         }
       },
       {
@@ -246,11 +246,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea sălăbnogului",
-          en: "Text here"
+          en: "Healing a paralyzed man"
         },
         text: {
           ro: "Luca 5:17-26",
-          en: "Text here"
+          en: "Luke 5:17-26"
         }
       },
       {
@@ -259,11 +259,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea slăbănogului la Betesda",
-          en: "Text here"
+          en: "Healing the paralytic at Bethesda"
         },
         text: {
           ro: "Ioan 5:1-9",
-          en: "Text here"
+          en: "John 5:1-9"
         }
       },
       {
@@ -272,11 +272,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea omului cu mâna uscată",
-          en: "Text here"
+          en: "Healing a withered hand"
         },
         text: {
           ro: "Luca 6:6-11",
-          en: "Text here"
+          en: "Luke 6:6-11"
         }
       },
       {
@@ -285,11 +285,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea unui îndrăcit mut și orb",
-          en: "Text here"
+          en: "Healing a blind and mute man who was demon-possessed"
         },
         text: {
           ro: "Matei 12:22-23",
-          en: "Text here"
+          en: "Matthew 12:22-23"
         }
       },
       {
@@ -298,11 +298,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Potolirea furtunii",
-          en: "Text here"
+          en: "Calming the storm"
         },
         text: {
           ro: "Luca 8:22-25",
-          en: "Text here"
+          en: "Luke 8:22-25"
         }
       },
       {
@@ -311,11 +311,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea celor doi îndrăciți",
-          en: "Text here"
+          en: "Healing two demon-possessed Men"
         },
         text: {
           ro: "Matei 8:28-34",
-          en: "Text here"
+          en: "Matthew 8:28-34"
         }
       },
       {
@@ -324,11 +324,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Învierea fiicei lui Iair",
-          en: "Text here"
+          en: "Raising Jairus' daughter"
         },
         text: {
           ro: "Marcu 5:35-43",
-          en: "Text here"
+          en: "Mark 5:35-43"
         }
       },
       {
@@ -337,11 +337,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea femeii cu scurgere de sânge",
-          en: "Text here"
+          en: "Healing the bleeding woman"
         },
         text: {
           ro: "Luca 8:43-48",
-          en: "Text here"
+          en: "Luke 8:43-48"
         }
       },
       {
@@ -350,7 +350,7 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea celor doi orbi",
-          en: "Text here"
+          en: "Healing of the two blind men"
         },
         text: {
           ro: "Matei 9:27-31",
@@ -363,11 +363,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea unui mut îndrăcit",
-          en: "Text here"
+          en: "Healing the blind and dumb possessed"
         },
         text: {
           ro: "Matei 9:32-34",
-          en: "Text here"
+          en: "Matthew 9:32-34"
         }
       },
       {
@@ -376,11 +376,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Hrănirea celor cinci mii de oameni",
-          en: "Text here"
+          en: "The feeding of the 5000"
         },
         text: {
           ro: "Ioan 6:1-14",
-          en: "Text here"
+          en: "John 6:1-14"
         }
       },
       {
@@ -389,11 +389,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Umblarea pe mare",
-          en: "Text here"
+          en: "Walking on water"
         },
         text: {
           ro: "Matei 14:22-33",
-          en: "Text here"
+          en: "Matthew 14:22-33"
         }
       },
       {
@@ -402,11 +402,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea fiicei femeii canaanite",
-          en: "Text here"
+          en: "Healing the Canaanite woman's daughter"
         },
         text: {
           ro: "Matei 15:21-28",
-          en: "Text here"
+          en: "Matthew 15:21-28"
         }
       },
       {
@@ -415,11 +415,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea omului surd și mut",
-          en: "Text here"
+          en: "Healing a deaf and mute man"
         },
         text: {
           ro: "Marcu 7:31-37",
-          en: "Text here"
+          en: "Mark 7:31-37"
         }
       },
       {
@@ -428,11 +428,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Hrănirea celor patru mii de oameni",
-          en: "Text here"
+          en: "The feeding of the four thousand"
         },
         text: {
           ro: "Matei 15:29-39",
-          en: "Text here"
+          en: "Matthew 15:29-39"
         }
       },
       {
@@ -441,11 +441,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea orbului la Betsaida",
-          en: "Text here"
+          en: "Healing the blind man at Bethsaida"
         },
         text: {
           ro: "Marcu 8:22-26",
-          en: "Text here"
+          en: "Mark 8:22-26"
         }
       },
       {
@@ -454,11 +454,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea unui copil lunatic",
-          en: "Text here"
+          en: "Healing of the lunatic child"
         },
         text: {
           ro: "Marcu 9:14-27",
-          en: "Text here"
+          en: "Mark 9:14-27"
         }
       },
       {
@@ -467,11 +467,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Moneda din gura peștelui",
-          en: "Text here"
+          en: "Coin in the fish's mouth"
         },
         text: {
           ro: "Matei 17:24-27",
-          en: "Text here"
+          en: "Matthew 17:24-27"
         }
       },
       {
@@ -480,11 +480,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea orbului din naștere",
-          en: "Text here"
+          en: "Healing the man blind from birth"
         },
         text: {
           ro: "Ioan 9:1-14",
-          en: "Text here"
+          en: "John 9:1-14"
         }
       },
       {
@@ -493,11 +493,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea femeii gârbove",
-          en: "Text here"
+          en: "Healing the woman with a bent back"
         },
         text: {
           ro: "Luca 13:10-13 (14-16?)",
-          en: "Text here"
+          en: "Luke 13:10-13 (14-16?)"
         }
       },
       {
@@ -506,11 +506,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea unui bolnav de dropică",
-          en: "Text here"
+          en: "Healing a man with dropsy"
         },
         text: {
           ro: "Luca 14:1-4 (5-6?)",
-          en: "Text here"
+          en: "Luke 14:1-4 (5-6?)"
         }
       },
       {
@@ -519,11 +519,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea celor zece leproși",
-          en: "Text here"
+          en: "Cleansing ten lepers"
         },
         text: {
           ro: "Luca 17:11-19",
-          en: "Text here"
+          en: "Luke 17:11-19"
         }
       },
       {
@@ -532,11 +532,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Învierea lui Lazar",
-          en: "Text here"
+          en: "The resurrection of Lazarus"
         },
         text: {
           ro: "Ioan 11:1-46?",
-          en: "Text here"
+          en: "John 11:1-46?"
         }
       },
       {
@@ -545,11 +545,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea celor doi orbi cerșetori",
-          en: "Text here"
+          en: "Two blind beggars restored to sight"
         },
         text: {
           ro: "Matei 20:29-34 & Marcu 10:46-52?",
-          en: "Text here"
+          en: "Matthew 20:29-34 & Mark 10:46-52?"
         }
       },
       {
@@ -558,11 +558,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Blestemarea smochinului",
-          en: "Text here"
+          en: "Jesus curses the fig tree with no fruit"
         },
         text: {
           ro: "Matei 21:18-22 & Marcu 11: 12-19?",
-          en: "Text here"
+          en: "Matthew 21:18-22 & Mark 11: 12-19?"
         }
       },
       {
@@ -571,11 +571,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "Vindecarea urechii lui Malhu",
-          en: "Text here"
+          en: "Restoring the ear of Malhu"
         },
         text: {
           ro: "Luca 22:47-51?",
-          en: "Text here"
+          en: "Luke 22:47-51?"
         }
       },
       {
@@ -584,11 +584,11 @@ angular.module('galleryApp', [])
         done: 5,
         title: {
           ro: "A doua pescuire minunată",
-          en: "Text here"
+          en: "Second miraculous catch of fish"
         },
         text: {
           ro: "Ioan 21:1-13",
-          en: "Text here"
+          en: "John 21:1-13"
         }
       }
     ];
