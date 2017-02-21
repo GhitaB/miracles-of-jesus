@@ -245,7 +245,7 @@ angular.module('galleryApp', [])
         img: 'ZZ.png',
         done: 5,
         title: {
-          ro: "Vindecarea sălăbnogului",
+          ro: "Vindecarea slăbănogului",
           en: "Healing a paralyzed man"
         },
         text: {
