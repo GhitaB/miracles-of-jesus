@@ -3,9 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours_a = 6;  // EDIT HERE
-    gallery.worked_hours_g = 2;  // EDIT HERE
-    gallery.worked_hours = gallery.worked_hours_a + gallery.worked_hours_g;
+    gallery.worked_hours = 23.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -294,8 +292,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 13,
-        img: 'ZZ.png',
-        done: 5,
+        img: '13.png',
+        done: 20,
         title: {
           ro: "Potolirea furtunii",
           en: "Calming the storm"
@@ -346,8 +344,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 17,
-        img: 'ZZ.png',
-        done: 5,
+        img: '17.png',
+        done: 20,
         title: {
           ro: "Vindecarea celor doi orbi",
           en: "Healing of the two blind men"
