@@ -383,7 +383,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 20,
-        img: 'ZZ.png',
+        img: '20.png',
         done: 5,
         title: {
           ro: "Umblarea pe mare",
