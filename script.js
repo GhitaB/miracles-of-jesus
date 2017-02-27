@@ -163,7 +163,7 @@ angular.module('galleryApp', [])
       {
         id: 3,
         img: '03.png',
-        done: 5,
+        done: 20,
         title: {
           ro: "Pescuirea minunată",
           en: "Catching a large number of fish"
@@ -319,7 +319,7 @@ angular.module('galleryApp', [])
       {
         id: 15,
         img: '15.png',
-        done: 5,
+        done: 20,
         title: {
           ro: "Învierea fiicei lui Iair",
           en: "Raising Jairus' daughter"
@@ -384,7 +384,7 @@ angular.module('galleryApp', [])
       {
         id: 20,
         img: '20.png',
-        done: 5,
+        done: 20,
         title: {
           ro: "Umblarea pe mare",
           en: "Walking on water"
@@ -526,7 +526,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 31,
-        img: '31.png',
+        img: '31.jpg', // JPG fix me
         done: 5,
         title: {
           ro: "Învierea lui Lazar",
