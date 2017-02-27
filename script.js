@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 25;  // EDIT HERE
+    gallery.worked_hours = 26;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -318,7 +318,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 15,
-        img: 'ZZ.png',
+        img: '15.png',
         done: 5,
         title: {
           ro: "Învierea fiicei lui Iair",
@@ -526,7 +526,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 31,
-        img: 'ZZ.png',
+        img: '31.png',
         done: 5,
         title: {
           ro: "Învierea lui Lazar",
