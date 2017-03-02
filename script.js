@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 27;  // EDIT HERE
+    gallery.worked_hours = 29.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -357,8 +357,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 18,
-        img: 'ZZ.png',
-        done: 5,
+        img: '18.png',
+        done: 20,
         title: {
           ro: "Vindecarea unui mut îndrăcit",
           en: "Healing the blind and dumb possessed"
@@ -422,7 +422,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 23,
-        img: 'ZZ.png',
+        img: '23.png',
         done: 5,
         title: {
           ro: "Hrănirea celor patru mii de oameni",
@@ -461,7 +461,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 26,
-        img: 'ZZ.png',
+        img: '26.png',
         done: 5,
         title: {
           ro: "Moneda din gura peștelui",
