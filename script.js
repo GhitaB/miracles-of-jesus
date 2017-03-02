@@ -423,7 +423,7 @@ angular.module('galleryApp', [])
       {
         id: 23,
         img: '23.png',
-        done: 5,
+        done: 20,
         title: {
           ro: "Hrănirea celor patru mii de oameni",
           en: "The feeding of the four thousand"
@@ -462,7 +462,7 @@ angular.module('galleryApp', [])
       {
         id: 26,
         img: '26.png',
-        done: 5,
+        done: 20,
         title: {
           ro: "Moneda din gura peștelui",
           en: "Coin in the fish's mouth"
