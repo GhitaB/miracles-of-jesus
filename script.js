@@ -136,8 +136,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 1,
-        img: 'ZZ.png',
-        done: 5,
+        img: '01.png',
+        done: 20,
         title: {
           ro: "Apa transformată în vin",
           en: "Changing water into wine"
@@ -175,8 +175,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 4,
-        img: 'ZZ.png',
-        done: 5,
+        img: '04.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea leprosului",
           en: "Healing a leper"
@@ -201,8 +201,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 6,
-        img: 'ZZ.png',
-        done: 5,
+        img: '06.png',
+        done: 20,
         title: {
           ro: "Învierea fiului văduvei din Nain",
           en: "Raising of the son of the widow of Nain"
