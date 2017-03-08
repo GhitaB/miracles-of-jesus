@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 31.75;  // EDIT HERE
+    gallery.worked_hours = 33;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -474,8 +474,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 27,
-        img: 'ZZ.png',
-        done: 5,
+        img: '27.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea orbului din naștere",
           en: "Healing the man blind from birth"
@@ -487,8 +487,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 28,
-        img: 'ZZ.png',
-        done: 5,
+        img: '28.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea femeii gârbove",
           en: "Healing the woman with a bent back"
@@ -500,8 +500,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 29,
-        img: 'ZZ.png',
-        done: 5,
+        img: '29.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea unui bolnav de dropică",
           en: "Healing a man with dropsy"
@@ -513,7 +513,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 30,
-        img: 'ZZ.png',
+        img: '30.jpg',
         done: 5,
         title: {
           ro: "Vindecarea celor zece leproși",
@@ -527,7 +527,7 @@ angular.module('galleryApp', [])
       {
         id: 31,
         img: '31.jpg', // JPG fix me
-        done: 5,
+        done: 20,
         title: {
           ro: "Învierea lui Lazar",
           en: "The resurrection of Lazarus"
@@ -539,8 +539,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 32,
-        img: 'ZZ.png',
-        done: 5,
+        img: '32.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea celor doi orbi cerșetori",
           en: "Two blind beggars restored to sight"
