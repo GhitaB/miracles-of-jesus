@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 31.25;  // EDIT HERE
+    gallery.worked_hours = 31.75;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -552,8 +552,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 33,
-        img: 'ZZ.png',
-        done: 5,
+        img: '33.jpg',
+        done: 20,
         title: {
           ro: "Blestemarea smochinului",
           en: "Jesus curses the fig tree with no fruit"
@@ -565,8 +565,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 34,
-        img: 'ZZ.png',
-        done: 5,
+        img: '34.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea urechii lui Malhu",
           en: "Restoring the ear of Malhu"
