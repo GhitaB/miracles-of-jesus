@@ -188,8 +188,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 5,
-        img: 'ZZ.png',
-        done: 5,
+        img: '05.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea robului sutașului roman",
           en: "Miracle of healing a centurion's servant"
