@@ -201,7 +201,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 6,
-        img: '06.png',
+        img: '06.jpg',
         done: 20,
         title: {
           ro: "Învierea fiului văduvei din Nain",
