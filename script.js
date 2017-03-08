@@ -149,8 +149,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 2,
-        img: 'ZZ.png',
-        done: 5,
+        img: '02.jpg',
+        done: 20,
         title: {
           ro: "Vindecarea fiului slujbașului împărătesc",
           en: "Healing of the royal official's son"
