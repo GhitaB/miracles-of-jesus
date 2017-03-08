@@ -578,7 +578,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 35,
-        img: '35.png',
+        img: '35.jpg',
         done: 20,
         title: {
           ro: "A doua pescuire minunată",
