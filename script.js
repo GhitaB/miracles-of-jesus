@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 36;  // EDIT HERE
+    gallery.worked_hours = 36.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -552,7 +552,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 33,
-        img: '33.jpg',
+        img: '33.png',
         done: 20,
         title: {
           ro: "Blestemarea smochinului",
