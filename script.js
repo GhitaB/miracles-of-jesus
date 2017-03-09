@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 36.5;  // EDIT HERE
+    gallery.worked_hours = 37;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -578,8 +578,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 35,
-        img: '35.jpg',
-        done: 20,
+        img: '35.png',
+        done: 50,
         title: {
           ro: "A doua pescuire minunată",
           en: "Second miraculous catch of fish"
