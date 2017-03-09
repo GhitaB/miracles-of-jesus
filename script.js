@@ -514,7 +514,7 @@ angular.module('galleryApp', [])
       {
         id: 30,
         img: '30.jpg',
-        done: 5,
+        done: 20,
         title: {
           ro: "Vindecarea celor zece leproși",
           en: "Cleansing ten lepers"
