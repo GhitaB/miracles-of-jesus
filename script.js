@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 37.5;  // EDIT HERE
+    gallery.worked_hours = 38;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -539,8 +539,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 32,
-        img: '32.jpg',
-        done: 20,
+        img: '32.png',
+        done: 50,
         title: {
           ro: "Vindecarea celor doi orbi cerșetori",
           en: "Two blind beggars restored to sight"
