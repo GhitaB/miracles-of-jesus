@@ -559,8 +559,8 @@ angular.module('galleryApp', [])
           en: "Jesus curses the fig tree with no fruit"
         },
         text: {
-          ro: "Matei 21:18-22 & Marcu 11: 12-19?",
-          en: "Matthew 21:18-22 & Mark 11: 12-19?"
+          ro: "Matei 21:18-22: Dimineaţa, pe când Se întorcea în cetate, I-a fost foame. A văzut un smochin lângă drum şi S-a apropiat de el; dar n-a găsit decât frunze, şi i-a zis: \"De acum încolo, în veac să nu mai dea rod din tine!\" Şi îndată smochinul s-a uscat. Ucenicii, când au văzut acest lucru, s-au mirat şi au zis: \"Cum de s-a uscat smochinul acesta într-o clipă?\" Drept răspuns, Isus le-a zis: \"Adevărat vă spun că, dacă veţi avea credinţă şi nu vă veţi îndoi, veţi face nu numai ce s-a făcut smochinului acestuia; ci chiar dacă aţi zice muntelui acestuia: \"Ridică-te de aici şi aruncă-te în mare\", se va face. Tot ce veţi cere cu credinţă, prin rugăciune, veţi primi.\"",
+          en: "Matthew 21:18-22: Now in the morning as he returned into the city, he hungered. And when he saw a fig tree in the way, he came to it, and found nothing thereon, but leaves only, and said unto it, Let no fruit grow on thee henceforward for ever. And presently the fig tree withered away. And when the disciples saw it, they marvelled, saying, How soon is the fig tree withered away! Jesus answered and said unto them, Verily I say unto you, If ye have faith, and doubt not, ye shall not only do this which is done to the fig tree, but also if ye shall say unto this mountain, Be thou removed, and be thou cast into the sea; it shall be done."
         }
       },
       {
