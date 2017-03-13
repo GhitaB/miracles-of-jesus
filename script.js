@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 39;  // EDIT HERE
+    gallery.worked_hours = 40;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -409,8 +409,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 22,
-        img: '22.jpg',
-        done: 20,
+        img: '22.png',
+        done: 50,
         title: {
           ro: "Vindecarea omului surd și mut",
           en: "Healing a deaf and mute man"
