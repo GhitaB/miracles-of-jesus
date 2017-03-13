@@ -481,7 +481,7 @@ angular.module('galleryApp', [])
           en: "Healing the man blind from birth"
         },
         text: {
-          ro: "Ioan 9:1-14",
+          ro: "Ioan 9:1-14: Când trecea, Isus a văzut pe un orb din naştere. Ucenicii Lui L-au întrebat: \"Învăţătorule, cine a păcătuit: omul acesta sau părinţii lui, de s-a născut orb?\" Isus a răspuns: \"N-a păcătuit nici omul acesta nici părinţii lui; ci s-a născut aşa, ca să se arate în el lucrările lui Dumnezeu. Cât este ziuă, trebuie să lucrez lucrările Celui ce M-a trimis; vine noaptea, când nimeni nu mai poate să lucreze. Cât sunt în lume, sunt Lumina lumii.\" După ce a zis aceste vorbe, a scuipat pe pământ şi a făcut tină din scuipat. Apoi a uns ochii orbului cu tina aceasta şi i-a zis: \"Du-te de te spală în scăldătoarea Siloamului\" (care tălmăcit înseamnă: Trimis). El s-a dus, s-a spălat şi s-a întors văzând bine. Vecinii şi cei ce-l cunoscuseră mai înainte ca cerşetor, ziceau: \"Nu este acesta cel ce şedea şi cerşea?\" Unii ziceau: \"El este.\" Alţii ziceau: \"Nu; dar seamănă cu el.\" Şi el însuşi zicea: \"Eu sunt.\" Deci i-au zis: \"Cum ţi s-au deschis ochii?\" El a răspuns: \"Omul acela, căruia I se zice Isus, a făcut tină, mi-a uns ochii şi mi-a zis: \"Du-te la scăldătoarea Siloamului şi spală-te.\" M-am dus, m-am spălat şi mi-am căpătat vederea.\" \"Unde este Omul acela?\", l-au întrebat ei. El a răspuns: \"Nu ştiu.\" Au adus la farisei pe cel ce fusese orb mai înainte. Şi era o zi de Sabat când făcuse Isus tină şi-i deschisese ochii.",
           en: "John 9:1-14"
         }
       },
