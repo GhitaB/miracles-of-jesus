@@ -553,7 +553,7 @@ angular.module('galleryApp', [])
       {
         id: 33,
         img: '33.png',
-        done: 90,
+        done: 100,
         title: {
           ro: "Blestemarea smochinului",
           en: "Jesus curses the fig tree with no fruit"
