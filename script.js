@@ -416,8 +416,8 @@ angular.module('galleryApp', [])
           en: "Healing a deaf and mute man"
         },
         text: {
-          ro: "Marcu 7:31-37",
-          en: "Mark 7:31-37"
+          ro: "Marcu 7:31-37: Isus a părăsit ţinutul Tirului şi a venit iarăşi prin Sidon la Marea Galileii, trecând prin ţinutul Decapole. I-au adus un surd care vorbea cu anevoie şi L-au rugat să-Şi pună mâinile peste el. El l-a luat la o parte din norod, i-a pus degetele în urechi şi i-a atins limba cu scuipatul Lui. Apoi, Şi-a ridicat ochii spre cer, a suspinat şi a zis: \"Efata\", adică: \"Deschide-te!\" Îndată i s-au deschis urechile, i s-a dezlegat limba şi a vorbit foarte desluşit. Isus le-a poruncit să nu spună nimănui; dar cu cât le poruncea mai mult, cu atât Îl vesteau mai mult. Ei erau uimiţi peste măsură de mult şi ziceau: \"Toate le face de minune; chiar şi pe surzi îi face să audă, şi pe muţi să vorbească.\"",
+          en: "Mark 7:31-37: And again, departing from the coasts of Tyre and Sidon, he came unto the sea of Galilee, through the midst of the coasts of Decapolis. And they bring unto him one that was deaf, and had an impediment in his speech; and they beseech him to put his hand upon him. And he took him aside from the multitude, and put his fingers into his ears, and he spit, and touched his tongue; And looking up to heaven, he sighed, and saith unto him, Ephphatha, that is, Be opened. And straightway his ears were opened, and the string of his tongue was loosed, and he spake plain. And he charged them that they should tell no man: but the more he charged them, so much the more a great deal they published it; And were beyond measure astonished, saying, He hath done all things well: he maketh both the deaf to hear, and the dumb to speak."
         }
       },
       {
