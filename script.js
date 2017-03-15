@@ -221,8 +221,8 @@ angular.module('galleryApp', [])
           en: "Healing of the Capernaum demoniac"
         },
         text: {
-          ro: "Luca 4:31-37",
-          en: "Luke 4:31-37"
+          ro: "Luca 4:31-37: S-a coborât în Capernaum, cetate din Galileea, şi acolo învăţa pe oameni în ziua Sabatului. Ei erau uimiţi de învăţătura Lui, pentru că vorbea cu putere. În sinagogă se afla un om care avea un duh de drac necurat şi care a strigat cu glas tare: \"Ah! Ce avem noi a face cu Tine, Isuse din Nazaret? Ai venit să ne prăpădeşti? Te ştiu cine eşti: Sfântul lui Dumnezeu.\" Isus l-a certat şi i-a zis: \"Taci şi ieşi afară din omul acesta!\" Şi dracul, după ce l-a trântit jos, în mijlocul adunării, a ieşit afară din el, fără să-i facă vreun rău. Toţi au fost cuprinşi de spaimă şi ziceau unii către alţii: \"Ce înseamnă lucrul acesta? El porunceşte cu stăpânire şi cu putere duhurilor necurate, şi ele ies afară!\" Şi I s-a dus vestea în toate împrejurimile.",
+          en: "Luke 4:31-37: And came down to Capernaum, a city of Galilee, and taught them on the sabbath days. And they were astonished at his doctrine: for his word was with power. And in the synagogue there was a man, which had a spirit of an unclean devil, and cried out with a loud voice, Saying, Let us alone; what have we to do with thee, thou Jesus of Nazareth? art thou come to destroy us? I know thee who thou art; the Holy One of God. And Jesus rebuked him, saying, Hold thy peace, and come out of him. And when the devil had thrown him in the midst, he came out of him, and hurt him not. And they were all amazed, and spake among themselves, saying, What a word is this! for with authority and power he commandeth the unclean spirits, and they come out. And the fame of him went out into every place of the country round about."
         }
       },
       {
@@ -234,8 +234,8 @@ angular.module('galleryApp', [])
           en: "Healing of Peter's mother-in-law"
         },
         text: {
-          ro: "Marcu 1:29-31",
-          en: "Mark 1:29-31"
+          ro: "Marcu 1:29-31: După ce a ieşit din sinagogă, a intrat împreună cu Iacov şi Ioan în casa lui Simon şi a lui Andrei. Soacra lui Simon zăcea în pat prinsă de friguri; şi îndată au vorbit lui Isus despre ea. El a venit, a apucat-o de mână, a ridicat-o în sus, şi au lăsat-o frigurile. Apoi ea a început să le slujească.",
+          en: "Mark 1:29-31: And forthwith, when they were come out of the synagogue, they entered into the house of Simon and Andrew, with James and John. But Simon's wife's mother lay sick of a fever, and anon they tell him of her. And he came and took her by the hand, and lifted her up; and immediately the fever left her, and she ministered unto them."
         }
       },
       {
@@ -247,8 +247,8 @@ angular.module('galleryApp', [])
           en: "Healing a paralyzed man"
         },
         text: {
-          ro: "Luca 5:17-26",
-          en: "Luke 5:17-26"
+          ro: "Luca 5:17-26: Într-una din zile, Isus învăţa pe noroade. Nişte farisei şi învăţători ai Legii, care veniseră din toate satele Galileii şi Iudeii şi din Ierusalim, stăteau acolo; iar puterea Domnului era cu El, ca să vindece. Şi iată că nişte oameni purtau într-un pat pe un slăbănog şi căutau să-l ducă înăuntru, ca să-l pună înaintea Lui. Fiindcă n-aveau pe unde să-l ducă înăuntru, din pricina norodului, s-au suit pe acoperişul casei şi l-au coborât cu patul printre cărămizi, în mijlocul adunării, înaintea lui Isus. Când le-a văzut credinţa, Isus a zis: \"Omule, păcatele îţi sunt iertate!\" Cărturarii şi fariseii au început să cârtească şi să zică în ei înşişi: \"Cine este Acesta, de rosteşte hule? Cine poate să ierte păcatele decât singur Dumnezeu?\" Isus, care le-a cunoscut gândurile, a luat cuvântul şi le-a zis: \"Pentru ce cârtiţi în inimile voastre? Ce este mai lesne, a zice: \"Păcatele îţi sunt iertate\" sau a zice: \"Scoală-te şi umblă\"? Dar, ca să ştiţi că Fiul omului are putere pe pământ să ierte păcatele: \"Ţie îţi poruncesc\", a zis El slăbănogului, \"scoală-te, ridică-ţi patul şi du-te acasă\". Şi, numaidecât, slăbănogul s-a sculat, în faţa lor, a ridicat patul pe care zăcea şi s-a dus acasă, slăvind pe Dumnezeu. Toţi au rămas uimiţi şi slăveau pe Dumnezeu; plini de frică, ziceau: \"Azi am văzut lucruri nemaipomenite.\"",
+          en: "Luke 5:17-26: And it came to pass on a certain day, as he was teaching, that there were Pharisees and doctors of the law sitting by, which were come out of every town of Galilee, and Judaea, and Jerusalem: and the power of the Lord was present to heal them. And, behold, men brought in a bed a man which was taken with a palsy: and they sought means to bring him in, and to lay him before him. And when they could not find by what way they might bring him in because of the multitude, they went upon the housetop, and let him down through the tiling with his couch into the midst before Jesus. And when he saw their faith, he said unto him, Man, thy sins are forgiven thee. And the scribes and the Pharisees began to reason, saying, Who is this which speaketh blasphemies? Who can forgive sins, but God alone? But when Jesus perceived their thoughts, he answering said unto them, What reason ye in your hearts? Whether is easier, to say, Thy sins be forgiven thee; or to say, Rise up and walk? But that ye may know that the Son of man hath power upon earth to forgive sins, (he said unto the sick of the palsy,) I say unto thee, Arise, and take up thy couch, and go into thine house. And immediately he rose up before them, and took up that whereon he lay, and departed to his own house, glorifying God. And they were all amazed, and they glorified God, and were filled with fear, saying, We have seen strange things to day."
         }
       },
       {
@@ -260,8 +260,8 @@ angular.module('galleryApp', [])
           en: "Healing the paralytic at Bethesda"
         },
         text: {
-          ro: "Ioan 5:1-9",
-          en: "John 5:1-9"
+          ro: "Ioan 5:1-9: După aceea era un praznic al iudeilor; şi Isus S-a suit la Ierusalim. În Ierusalim, lângă poarta oilor, este o scăldătoare, numită în evreieşte Betesda, care are cinci pridvoare. În pridvoarele acestea zăceau o mulţime de bolnavi, orbi, şchiopi, uscaţi, care aşteptau mişcarea apei. Căci un înger al Domnului se cobora, din când în când, în scăldătoare şi tulbura apa. Şi cel dintâi care se cobora în ea, după tulburarea apei, se făcea sănătos, orice boală ar fi avut. Acolo se afla un om bolnav de treizeci şi opt de ani. Isus, când l-a văzut zăcând, şi fiindcă ştia că este bolnav de multă vreme, i-a zis: \"Vrei să te faci sănătos?\" \"Doamne\", I-a răspuns bolnavul, \"n-am pe nimeni să mă bage în scăldătoare când se tulbură apa; şi, până să mă duc eu, se coboară altul înaintea mea.\" \"Scoală-te\", i-a zis Isus, \"ridică-ţi patul şi umblă.\" Îndată omul acela s-a făcut sănătos, şi-a luat patul şi umbla. Ziua aceea era o zi de Sabat.",
+          en: "John 5:1-9: After this there was a feast of the Jews; and Jesus went up to Jerusalem. Now there is at Jerusalem by the sheep market a pool, which is called in the Hebrew tongue Bethesda, having five porches. In these lay a great multitude of impotent folk, of blind, halt, withered, waiting for the moving of the water. For an angel went down at a certain season into the pool, and troubled the water: whosoever then first after the troubling of the water stepped in was made whole of whatsoever disease he had. And a certain man was there, which had an infirmity thirty and eight years. When Jesus saw him lie, and knew that he had been now a long time in that case, he saith unto him, Wilt thou be made whole? The impotent man answered him, Sir, I have no man, when the water is troubled, to put me into the pool: but while I am coming, another steppeth down before me. Jesus saith unto him, Rise, take up thy bed, and walk. And immediately the man was made whole, and took up his bed, and walked: and on the same day was the sabbath."
         }
       },
       {
@@ -273,8 +273,8 @@ angular.module('galleryApp', [])
           en: "Healing a withered hand"
         },
         text: {
-          ro: "Luca 6:6-11",
-          en: "Luke 6:6-11"
+          ro: "Luca 6:6-11: În altă zi de Sabat, s-a întâmplat că Isus a intrat în sinagogă şi învăţa pe norod. Acolo era un om care avea mâna dreaptă uscată. Cărturarii şi fariseii pândeau pe Isus, să vadă dacă-l va vindeca în ziua Sabatului, ca să aibă de ce să-L învinuiască. Dar El le ştia gândurile; şi a zis omului care avea mâna uscată: \"Scoală-te şi stai în mijloc.\" El s-a sculat şi a stat în picioare. Şi Isus le-a zis: \"Vă întreb: Este îngăduit în ziua Sabatului a face bine ori a face rău? A scăpa o viaţă sau a o pierde?\" Atunci, Şi-a rotit privirile peste toţi şi a zis omului: \"Întinde-ţi mâna!\" El a întins-o, şi mâna i s-a făcut sănătoasă ca şi cealaltă. Ei turbau de mânie şi s-au sfătuit ce ar putea să facă lui Isus.",
+          en: "Luke 6:6-11: And it came to pass also on another sabbath, that he entered into the synagogue and taught: and there was a man whose right hand was withered. And the scribes and Pharisees watched him, whether he would heal on the sabbath day; that they might find an accusation against him. But he knew their thoughts, and said to the man which had the withered hand, Rise up, and stand forth in the midst. And he arose and stood forth. Then said Jesus unto them, I will ask you one thing; Is it lawful on the sabbath days to do good, or to do evil? to save life, or to destroy it? And looking round about upon them all, he said unto the man, Stretch forth thy hand. And he did so: and his hand was restored whole as the other. And they were filled with madness; and communed one with another what they might do to Jesus."
         }
       },
       {
@@ -286,8 +286,8 @@ angular.module('galleryApp', [])
           en: "Healing a blind and mute man who was demon-possessed"
         },
         text: {
-          ro: "Matei 12:22-23",
-          en: "Matthew 12:22-23"
+          ro: "Matei 12:22-23: Atunci I-au adus un îndrăcit orb şi mut; şi Isus l-a tămăduit, aşa că mutul vorbea şi vedea. Toate noroadele, mirate, ziceau: \"Nu cumva este acesta Fiul lui David?\"",
+          en: "Matthew 12:22-23: Then was brought unto him one possessed with a devil, blind, and dumb: and he healed him, insomuch that the blind and dumb both spake and saw. And all the people were amazed, and said, Is not this the son of David?"
         }
       },
       {
@@ -299,8 +299,8 @@ angular.module('galleryApp', [])
           en: "Calming the storm"
         },
         text: {
-          ro: "Luca 8:22-25",
-          en: "Luke 8:22-25"
+          ro: "Luca 8:22-25: Într-una din zile, Isus S-a suit într-o corabie împreună cu ucenicii Lui. El le-a zis: \"Haidem să trecem dincolo de lac.\" Şi au plecat. Pe când vâsleau ei, Isus a adormit. Pe lac s-a stârnit un aşa vârtej de vânt, că se umplea corabia cu apă; şi erau în primejdie. Au venit la El, L-au deşteptat şi au zis: \"Învăţătorule, Învăţătorule, pierim.\" Isus S-a sculat, a certat vântul şi valurile înfuriate, care s-au potolit: şi s-a făcut linişte. Apoi a zis ucenicilor Săi: \"Unde vă este credinţa?\" Plini de spaimă şi de mirare, ei au zis unii către alţii: \"Cine este Acesta de porunceşte chiar şi vânturilor şi apei, şi-L ascultă?\"",
+          en: "Luke 8:22-25: Now it came to pass on a certain day, that he went into a ship with his disciples: and he said unto them, Let us go over unto the other side of the lake. And they launched forth. But as they sailed he fell asleep: and there came down a storm of wind on the lake; and they were filled with water, and were in jeopardy. And they came to him, and awoke him, saying, Master, master, we perish. Then he arose, and rebuked the wind and the raging of the water: and they ceased, and there was a calm. And he said unto them, Where is your faith? And they being afraid wondered, saying one to another, What manner of man is this! for he commandeth even the winds and water, and they obey him."
         }
       },
       {
@@ -312,8 +312,8 @@ angular.module('galleryApp', [])
           en: "Healing two demon-possessed Men"
         },
         text: {
-          ro: "Matei 8:28-34",
-          en: "Matthew 8:28-34"
+          ro: "Matei 8:28-34: Când a ajuns Isus de partea cealaltă, în ţinutul Gadarenilor, L-au întâmpinat doi îndrăciţi care ieşeau din morminte. Erau aşa de cumpliţi, că nimeni nu putea trece pe drumul acela. Şi iată că au început să strige: \"Ce legătură este între noi şi Tine, Isuse, Fiul lui Dumnezeu? Ai venit aici să ne chinuieşti înainte de vreme?\" Departe de ei era o turmă mare de porci care păşteau. Dracii rugau pe Isus şi ziceau: \"Dacă ne scoţi afară din ei, dă-ne voie să ne ducem în turma aceea de porci.\" \"Duceţi-vă\", le-a zis El. Ei au ieşit şi au intrat în porci. Şi deodată toată turma s-a repezit de pe râpă în mare, şi a pierit în ape.",
+          en: "Matthew 8:28-34: And when he was come to the other side into the country of the Gergesenes, there met him two possessed with devils, coming out of the tombs, exceeding fierce, so that no man might pass by that way. And, behold, they cried out, saying, What have we to do with thee, Jesus, thou Son of God? art thou come hither to torment us before the time? And there was a good way off from them an herd of many swine feeding. So the devils besought him, saying, If thou cast us out, suffer us to go away into the herd of swine. And he said unto them, Go. And when they were come out, they went into the herd of swine: and, behold, the whole herd of swine ran violently down a steep place into the sea, and perished in the waters."
         }
       },
       {
@@ -325,8 +325,8 @@ angular.module('galleryApp', [])
           en: "Raising Jairus' daughter"
         },
         text: {
-          ro: "Marcu 5:35-43",
-          en: "Mark 5:35-43"
+          ro: "Marcu 5:35-43: Pe când vorbea El încă, iată că vin nişte oameni de la fruntaşul sinagogii care-i spun: \"Fiica ta a murit; pentru ce mai superi pe Învăţătorul?\" Dar Isus, fără să ţină seamă de cuvintele acestea, a zis fruntaşului sinagogii: \"Nu te teme, crede numai!\" Şi n-a îngăduit nimănui să-L însoţească, afară de Petru, Iacov şi Ioan, fratele lui Iacov. Au ajuns la casa fruntaşului sinagogii. Acolo Isus a văzut o zarvă, şi pe unii care plângeau şi se tânguiau mult. A intrat înăuntru şi le-a zis: \"Pentru ce faceţi atâta zarvă şi pentru ce plângeţi? Copila n-a murit, ci doarme.\" Ei îşi băteau joc de El. Atunci, după ce i-a scos afară pe toţi, a luat cu El pe tatăl copilei, pe mama ei şi pe cei ce-L însoţiseră şi a intrat acolo unde zăcea copila. A apucat-o de mână şi i-a zis: \"Talita, cumi\", care tălmăcit înseamnă: \"Fetiţo, scoală-te îţi zic!\" Îndată fetiţa s-a sculat şi a început să umble; căci era de doisprezece ani. Ei au rămas încremeniţi. Isus le-a poruncit cu tărie să nu ştie nimeni lucrul acesta; şi a zis să dea de mâncare fetiţei.",
+          en: "Mark 5:35-43: While he yet spake, there came from the ruler of the synagogue's house certain which said, Thy daughter is dead: why troublest thou the Master any further? As soon as Jesus heard the word that was spoken, he saith unto the ruler of the synagogue, Be not afraid, only believe. And he suffered no man to follow him, save Peter, and James, and John the brother of James. And he cometh to the house of the ruler of the synagogue, and seeth the tumult, and them that wept and wailed greatly. And when he was come in, he saith unto them, Why make ye this ado, and weep? the damsel is not dead, but sleepeth. And they laughed him to scorn. But when he had put them all out, he taketh the father and the mother of the damsel, and them that were with him, and entereth in where the damsel was lying. And he took the damsel by the hand, and said unto her, Talitha cumi; which is, being interpreted, Damsel, I say unto thee, arise. And straightway the damsel arose, and walked; for she was of the age of twelve years. And they were astonished with a great astonishment. And he charged them straitly that no man should know it; and commanded that something should be given her to eat."
         }
       },
       {
@@ -338,8 +338,8 @@ angular.module('galleryApp', [])
           en: "Healing the bleeding woman"
         },
         text: {
-          ro: "Luca 8:43-48",
-          en: "Luke 8:43-48"
+          ro: "Luca 8:43-48: Şi era o femeie care de doisprezece ani avea o scurgere de sânge; ea îşi cheltuise toată averea cu doctorii, fără s-o fi putut vindeca vreunul. Ea s-a apropiat pe dinapoi şi s-a atins de poala hainei lui Isus. Îndată, scurgerea de sânge s-a oprit. Şi Isus a zis: \"Cine s-a atins de Mine?\" Fiindcă toţi tăgăduiau, Petru şi cei ce erau cu El au zis: \"Învăţătorule, noroadele Te împresoară şi Te îmbulzesc, şi mai întrebi: \"Cine s-a atins de Mine\"? Dar Isus a răspuns: \"S-a atins cineva de Mine, căci am simţit că a ieşit din Mine o putere.\" Femeia, când s-a văzut dată de gol, a venit tremurând, s-a aruncat jos înaintea Lui şi a spus în faţa întregului norod din ce pricină se atinsese de El şi cum fusese vindecată numaidecât. Isus i-a zis: \"Îndrăzneşte, fiică; credinţa ta te-a mântuit, du-te în pace.\"",
+          en: "Luke 8:43-48: And a woman having an issue of blood twelve years, which had spent all her living upon physicians, neither could be healed of any, Came behind him, and touched the border of his garment: and immediately her issue of blood stanched. And Jesus said, Who touched me? When all denied, Peter and they that were with him said, Master, the multitude throng thee and press thee, and sayest thou, Who touched me? And Jesus said, Somebody hath touched me: for I perceive that virtue is gone out of me. And when the woman saw that she was not hid, she came trembling, and falling down before him, she declared unto him before all the people for what cause she had touched him, and how she was healed immediately. And he said unto her, Daughter, be of good comfort: thy faith hath made thee whole; go in peace."
         }
       },
       {
@@ -351,8 +351,8 @@ angular.module('galleryApp', [])
           en: "Healing of the two blind men"
         },
         text: {
-          ro: "Matei 9:27-31",
-          en: "Text here"
+          ro: "Matei 9:27-31: Când a plecat de acolo, s-au luat după Isus doi orbi care strigau şi ziceau: \"Ai milă de noi, Fiul lui David!\" După ce a intrat în casă, orbii au venit la El. Şi Isus le-a zis: \"Credeţi că pot face lucrul acesta?\" \"Da, Doamne\", I-au răspuns ei. Atunci S-a atins de ochii lor şi a zis: \"Facă-vi-se după credinţa voastră!\" Şi li s-au deschis ochii. Isus le-a poruncit cu tot dinadinsul şi le-a zis: \"Vedeţi să nu ştie nimeni.\" Dar ei, cum au ieşit afară, au răspândit vestea despre El în tot ţinutul acela.",
+          en: "Matthew 9:27-31: And when Jesus departed thence, two blind men followed him, crying, and saying, Thou Son of David, have mercy on us. And when he was come into the house, the blind men came to him: and Jesus saith unto them, Believe ye that I am able to do this? They said unto him, Yea, Lord. Then touched he their eyes, saying, According to your faith be it unto you. And their eyes were opened; and Jesus straitly charged them, saying, See that no man know it. But they, when they were departed, spread abroad his fame in all that country."
         }
       },
       {
@@ -364,8 +364,8 @@ angular.module('galleryApp', [])
           en: "Healing the blind and dumb possessed"
         },
         text: {
-          ro: "Matei 9:32-34",
-          en: "Matthew 9:32-34"
+          ro: "Matei 9:32-34: Pe când plecau orbii aceştia, iată că au adus la Isus un mut îndrăcit. După ce a fost scos dracul din el, mutul a vorbit. Şi noroadele, mirate, ziceau: \"Niciodată nu s-a văzut aşa ceva în Israel!\" Dar fariseii ziceau: \"Cu ajutorul domnului dracilor scoate El dracii!\"",
+          en: "Matthew 9:32-34: As they went out, behold, they brought to him a dumb man possessed with a devil. And when the devil was cast out, the dumb spake: and the multitudes marvelled, saying, It was never so seen in Israel. But the Pharisees said, He casteth out devils through the prince of the devils."
         }
       },
       {
@@ -377,8 +377,8 @@ angular.module('galleryApp', [])
           en: "The feeding of the 5000"
         },
         text: {
-          ro: "Ioan 6:1-14",
-          en: "John 6:1-14"
+          ro: "Ioan 6:1-14: După aceea Isus S-a dus dincolo de Marea Galileii, numită Marea Tiberiadei. O mare gloată mergea după El pentru că vedea semnele pe care le făcea cu cei bolnavi. Isus S-a suit pe munte şi şedea acolo cu ucenicii Săi. Paştile, praznicul iudeilor, era aproape. Isus Şi-a ridicat ochii şi a văzut că o mare gloată vine spre El. Şi a zis lui Filip: \"De unde avem să cumpărăm pâini ca să mănânce oamenii aceştia?\" Spunea lucrul acesta ca să-l încerce, pentru că ştia ce are de gând să facă. Filip I-a răspuns: \"Pâinile pe care le-am putea cumpăra cu două sute de lei, n-ar ajunge ca fiecare să capete puţintel din ele.\" Unul din ucenicii Săi, Andrei, fratele lui Simon Petru, I-a zis: \"Este aici un băieţel care are cinci pâini de orz şi doi peşti; dar ce sunt acestea la atâţia?\" Isus a zis: \"Spuneţi oamenilor să şadă jos.\" În locul acela era multă iarbă. Oamenii au şezut jos, în număr de aproape cinci mii. Isus a luat pâinile, a mulţumit lui Dumnezeu, le-a împărţit ucenicilor, iar ucenicii le-au împărţit celor ce şedeau jos; de asemenea, le-a dat şi din peşti cât au voit. După ce s-au săturat, Isus a zis ucenicilor Săi: \"Strângeţi firimiturile care au rămas, ca să nu se piardă nimic.\" Le-au adunat deci şi au umplut douăsprezece coşuri cu firimiturile care rămăseseră din cele cinci pâini de orz, după ce mâncaseră toţi. Oamenii aceia, când au văzut minunea pe care o făcuse Isus, ziceau: \"Cu adevărat, Acesta este Prorocul cel aşteptat în lume.\"",
+          en: "John 6:1-14: After these things Jesus went over the sea of Galilee, which is the sea of Tiberias. And a great multitude followed him, because they saw his miracles which he did on them that were diseased. And Jesus went up into a mountain, and there he sat with his disciples. And the passover, a feast of the Jews, was nigh. When Jesus then lifted up his eyes, and saw a great company come unto him, he saith unto Philip, Whence shall we buy bread, that these may eat? And this he said to prove him: for he himself knew what he would do. Philip answered him, Two hundred pennyworth of bread is not sufficient for them, that every one of them may take a little. One of his disciples, Andrew, Simon Peter's brother, saith unto him, There is a lad here, which hath five barley loaves, and two small fishes: but what are they among so many? And Jesus said, Make the men sit down. Now there was much grass in the place. So the men sat down, in number about five thousand. And Jesus took the loaves; and when he had given thanks, he distributed to the disciples, and the disciples to them that were set down; and likewise of the fishes as much as they would. When they were filled, he said unto his disciples, Gather up the fragments that remain, that nothing be lost. Therefore they gathered them together, and filled twelve baskets with the fragments of the five barley loaves, which remained over and above unto them that had eaten. Then those men, when they had seen the miracle that Jesus did, said, This is of a truth that prophet that should come into the world."
         }
       },
       {
@@ -390,8 +390,8 @@ angular.module('galleryApp', [])
           en: "Walking on water"
         },
         text: {
-          ro: "Matei 14:22-33",
-          en: "Matthew 14:22-33"
+          ro: "Matei 14:22-33: Îndată după aceea, Isus a silit pe ucenicii Săi să intre în corabie şi să treacă înaintea Lui de partea cealaltă, până va da drumul noroadelor. După ce a dat drumul noroadelor, S-a suit pe munte să Se roage, singur la o parte. Se înnoptase, şi El era singur acolo. În timpul acesta, corabia era învăluită de valuri în mijlocul mării; căci vântul era împotrivă. Când se îngâna ziua cu noaptea, Isus a venit la ei, umblând pe mare. Când L-au văzut ucenicii umblând pe mare, s-au înspăimântat şi au zis: \"Este o nălucă!\" Şi, de frică, au ţipat. Isus le-a zis îndată: \"Îndrăzniţi, Eu sunt; nu vă temeţi!\" \"Doamne\", I-a răspuns Petru, \"dacă eşti Tu, porunceşte-mi să vin la Tine pe ape.\" \"Vino!\", i-a zis Isus. Petru s-a coborât din corabie şi a început să umble pe ape ca să meargă la Isus. Dar, când a văzut că vântul era tare, s-a temut; şi, fiindcă începea să se afunde, a strigat: \"Doamne, scapă-mă!\" Îndată, Isus a întins mâna, l-a apucat şi i-a zis: \"Puţin credinciosule, pentru ce te-ai îndoit?\" Şi după ce au intrat în corabie, a stat vântul. Cei ce erau în corabie au venit de s-au închinat înaintea lui Isus şi I-au zis: \"Cu adevărat, Tu eşti Fiul lui Dumnezeu!\"",
+          en: "Matthew 14:22-33: 22 And straightway Jesus constrained his disciples to get into a ship, and to go before him unto the other side, while he sent the multitudes away. And when he had sent the multitudes away, he went up into a mountain apart to pray: and when the evening was come, he was there alone. But the ship was now in the midst of the sea, tossed with waves: for the wind was contrary. And in the fourth watch of the night Jesus went unto them, walking on the sea. And when the disciples saw him walking on the sea, they were troubled, saying, It is a spirit; and they cried out for fear. But straightway Jesus spake unto them, saying, Be of good cheer; it is I; be not afraid. And Peter answered him and said, Lord, if it be thou, bid me come unto thee on the water. And he said, Come. And when Peter was come down out of the ship, he walked on the water, to go to Jesus. But when he saw the wind boisterous, he was afraid; and beginning to sink, he cried, saying, Lord, save me. And immediately Jesus stretched forth his hand, and caught him, and said unto him, O thou of little faith, wherefore didst thou doubt? And when they were come into the ship, the wind ceased. Then they that were in the ship came and worshipped him, saying, Of a truth thou art the Son of God."
         }
       },
       {
@@ -403,8 +403,8 @@ angular.module('galleryApp', [])
           en: "Healing the Canaanite woman's daughter"
         },
         text: {
-          ro: "Matei 15:21-28",
-          en: "Matthew 15:21-28"
+          ro: "Matei 15:21-28: Isus, după ce a plecat de acolo, S-a dus în părţile Tirului şi ale Sidonului. Şi iată că o femeie canaanită a venit din ţinuturile acelea şi a început să strige către El: \"Ai milă de mine, Doamne, Fiul lui David! Fiica mea este muncită rău de un drac.\" El nu i-a răspuns niciun cuvânt. Şi ucenicii Lui s-au apropiat şi L-au rugat stăruitor: \"Dă-i drumul, căci strigă după noi.\" Drept răspuns, El a zis: \"Eu nu sunt trimis decât la oile pierdute ale casei lui Israel.\" Dar ea a venit şi I s-a închinat, zicând: \"Doamne, ajută-mi!\" Drept răspuns, El i-a zis: \"Nu este bine să iei pâinea copiilor şi s-o arunci la căţei!\" \"Da, Doamne\", a zis ea, \"dar şi căţeii mănâncă firimiturile care cad de la masa stăpânilor lor.\" Atunci Isus i-a zis: \"O, femeie, mare este credinţa Ta; facă-ţi-se cum voieşti.\" Şi fiica ei s-a tămăduit chiar în ceasul acela.",
+          en: "Matthew 15:21-28: Then Jesus went thence, and departed into the coasts of Tyre and Sidon. And, behold, a woman of Canaan came out of the same coasts, and cried unto him, saying, Have mercy on me, O Lord, thou Son of David; my daughter is grievously vexed with a devil. But he answered her not a word. And his disciples came and besought him, saying, Send her away; for she crieth after us. But he answered and said, I am not sent but unto the lost sheep of the house of Israel. Then came she and worshipped him, saying, Lord, help me. But he answered and said, It is not meet to take the children's bread, and to cast it to dogs. And she said, Truth, Lord: yet the dogs eat of the crumbs which fall from their masters' table. Then Jesus answered and said unto her, O woman, great is thy faith: be it unto thee even as thou wilt. And her daughter was made whole from that very hour."
         }
       },
       {
