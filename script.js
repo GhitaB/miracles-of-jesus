@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 45;  // EDIT HERE
+    gallery.worked_hours = 46.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -137,7 +137,7 @@ angular.module('galleryApp', [])
       {
         id: 1,
         img: '01.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Apa transformată în vin",
           en: "Changing water into wine"
@@ -150,7 +150,7 @@ angular.module('galleryApp', [])
       {
         id: 2,
         img: '02.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea fiului slujbașului împărătesc",
           en: "Healing of the royal official's son"
@@ -163,7 +163,7 @@ angular.module('galleryApp', [])
       {
         id: 3,
         img: '03.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Pescuirea minunată",
           en: "Catching a large number of fish"
@@ -176,7 +176,7 @@ angular.module('galleryApp', [])
       {
         id: 4,
         img: '04.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea leprosului",
           en: "Healing a leper"
@@ -189,7 +189,7 @@ angular.module('galleryApp', [])
       {
         id: 5,
         img: '05.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea robului sutașului roman",
           en: "Miracle of healing a centurion's servant"
@@ -202,7 +202,7 @@ angular.module('galleryApp', [])
       {
         id: 6,
         img: '06.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Învierea fiului văduvei din Nain",
           en: "Raising of the son of the widow of Nain"
@@ -215,7 +215,7 @@ angular.module('galleryApp', [])
       {
         id: 7,
         img: '07.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea îndrăcitului la Capernaum",
           en: "Healing of the Capernaum demoniac"
@@ -228,7 +228,7 @@ angular.module('galleryApp', [])
       {
         id: 8,
         img: '08.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea soacrei lui Petru",
           en: "Healing of Peter's mother-in-law"
@@ -241,7 +241,7 @@ angular.module('galleryApp', [])
       {
         id: 9,
         img: '09.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea slăbănogului",
           en: "Healing a paralyzed man"
@@ -254,7 +254,7 @@ angular.module('galleryApp', [])
       {
         id: 10,
         img: '10.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea slăbănogului la Betesda",
           en: "Healing the paralytic at Bethesda"
@@ -267,7 +267,7 @@ angular.module('galleryApp', [])
       {
         id: 11,
         img: '11.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea omului cu mâna uscată",
           en: "Healing a withered hand"
@@ -280,7 +280,7 @@ angular.module('galleryApp', [])
       {
         id: 12,
         img: '12.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea unui îndrăcit mut și orb",
           en: "Healing a blind and mute man who was demon-possessed"
@@ -293,7 +293,7 @@ angular.module('galleryApp', [])
       {
         id: 13,
         img: '13.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Potolirea furtunii",
           en: "Calming the storm"
@@ -306,7 +306,7 @@ angular.module('galleryApp', [])
       {
         id: 14,
         img: '14.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea celor doi îndrăciți",
           en: "Healing two demon-possessed Men"
@@ -319,7 +319,7 @@ angular.module('galleryApp', [])
       {
         id: 15,
         img: '15.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Învierea fiicei lui Iair",
           en: "Raising Jairus' daughter"
@@ -332,7 +332,7 @@ angular.module('galleryApp', [])
       {
         id: 16,
         img: '16.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea femeii cu scurgere de sânge",
           en: "Healing the bleeding woman"
@@ -345,7 +345,7 @@ angular.module('galleryApp', [])
       {
         id: 17,
         img: '17.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea celor doi orbi",
           en: "Healing of the two blind men"
@@ -358,7 +358,7 @@ angular.module('galleryApp', [])
       {
         id: 18,
         img: '18.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea unui mut îndrăcit",
           en: "Healing the blind and dumb possessed"
@@ -371,7 +371,7 @@ angular.module('galleryApp', [])
       {
         id: 19,
         img: '19.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Hrănirea celor cinci mii de oameni",
           en: "The feeding of the 5000"
@@ -384,7 +384,7 @@ angular.module('galleryApp', [])
       {
         id: 20,
         img: '20.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Umblarea pe mare",
           en: "Walking on water"
@@ -397,7 +397,7 @@ angular.module('galleryApp', [])
       {
         id: 21,
         img: '21.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea fiicei femeii canaanite",
           en: "Healing the Canaanite woman's daughter"
@@ -423,7 +423,7 @@ angular.module('galleryApp', [])
       {
         id: 23,
         img: '23.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Hrănirea celor patru mii de oameni",
           en: "The feeding of the four thousand"
@@ -436,7 +436,7 @@ angular.module('galleryApp', [])
       {
         id: 24,
         img: '24.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea orbului la Betsaida",
           en: "Healing the blind man at Bethsaida"
@@ -449,7 +449,7 @@ angular.module('galleryApp', [])
       {
         id: 25,
         img: '25.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea unui copil lunatic",
           en: "Healing of the lunatic child"
@@ -462,7 +462,7 @@ angular.module('galleryApp', [])
       {
         id: 26,
         img: '26.png',
-        done: 20,
+        done: 30,
         title: {
           ro: "Moneda din gura peștelui",
           en: "Coin in the fish's mouth"
@@ -488,7 +488,7 @@ angular.module('galleryApp', [])
       {
         id: 28,
         img: '28.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea femeii gârbove",
           en: "Healing the woman with a bent back"
@@ -501,7 +501,7 @@ angular.module('galleryApp', [])
       {
         id: 29,
         img: '29.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea unui bolnav de dropică",
           en: "Healing a man with dropsy"
@@ -514,7 +514,7 @@ angular.module('galleryApp', [])
       {
         id: 30,
         img: '30.jpg',
-        done: 20,
+        done: 30,
         title: {
           ro: "Vindecarea celor zece leproși",
           en: "Cleansing ten lepers"
@@ -527,7 +527,7 @@ angular.module('galleryApp', [])
       {
         id: 31,
         img: '31.jpg', // JPG fix me
-        done: 20,
+        done: 30,
         title: {
           ro: "Învierea lui Lazar",
           en: "The resurrection of Lazarus"
