@@ -429,8 +429,8 @@ angular.module('galleryApp', [])
           en: "The feeding of the four thousand"
         },
         text: {
-          ro: "Matei 15:29-39",
-          en: "Matthew 15:29-39"
+          ro: "Matei 15:29-39: Isus a plecat din locurile acelea şi a venit lângă Marea Galileii. S-a suit pe munte şi a şezut jos acolo. Atunci au venit la El multe noroade, având cu ele şchiopi, orbi, muţi, ciungi şi mulţi alţi bolnavi. I-au pus la picioarele Lui, şi El i-a tămăduit; aşa că noroadele se mirau, când au văzut că muţii vorbesc, ciungii se însănătoşesc, şchiopii umblă, şi orbii văd; şi slăveau pe Dumnezeul lui Israel. Isus a chemat pe ucenicii Săi şi le-a zis: \"Mi-este milă de gloata aceasta; căci iată că de trei zile aşteaptă lângă Mine şi n-au ce mânca. Nu vreau să le dau drumul flămânzi, ca nu cumva să leşine de foame pe drum.\" Ucenicii I-au zis: \"De unde să luăm în pustiul acesta atâtea pâini ca să săturăm atâta gloată?\" \"Câte pâini aveţi?\", i-a întrebat Isus. \"Şapte\", I-au răspuns ei, \"şi puţini peştişori\". Atunci Isus a poruncit norodului să şadă pe pământ. A luat cele şapte pâini şi peştişorii şi, după ce a mulţumit lui Dumnezeu, a frânt şi a dat ucenicilor, iar ucenicii au împărţit norodului. Au mâncat toţi şi s-au săturat; şi s-au ridicat şapte coşniţe pline cu rămăşiţele de firimituri. Cei ce mâncaseră erau patru mii de bărbaţi, afară de femei şi de copii. În urmă Isus a dat drumul noroadelor, S-a suit în corabie şi a trecut în ţinutul Magdalei.",
+          en: "Matthew 15:29-39: And Jesus departed from thence, and came nigh unto the sea of Galilee; and went up into a mountain, and sat down there. And great multitudes came unto him, having with them those that were lame, blind, dumb, maimed, and many others, and cast them down at Jesus' feet; and he healed them: Insomuch that the multitude wondered, when they saw the dumb to speak, the maimed to be whole, the lame to walk, and the blind to see: and they glorified the God of Israel. Then Jesus called his disciples unto him, and said, I have compassion on the multitude, because they continue with me now three days, and have nothing to eat: and I will not send them away fasting, lest they faint in the way. And his disciples say unto him, Whence should we have so much bread in the wilderness, as to fill so great a multitude? And Jesus saith unto them, How many loaves have ye? And they said, Seven, and a few little fishes. And he commanded the multitude to sit down on the ground. And he took the seven loaves and the fishes, and gave thanks, and brake them, and gave to his disciples, and the disciples to the multitude. And they did all eat, and were filled: and they took up of the broken meat that was left seven baskets full. And they that did eat were four thousand men, beside women and children. And he sent away the multitude, and took ship, and came into the coasts of Magdala."
         }
       },
       {
@@ -442,8 +442,8 @@ angular.module('galleryApp', [])
           en: "Healing the blind man at Bethsaida"
         },
         text: {
-          ro: "Marcu 8:22-26",
-          en: "Mark 8:22-26"
+          ro: "Marcu 8:22-26: Au venit la Betsaida; au adus la Isus un orb şi L-au rugat să Se atingă de el. Isus a luat pe orb de mână şi l-a scos afară din sat; apoi i-a pus scuipat pe ochi, Şi-a pus mâinile peste el şi l-a întrebat: \"Vezi ceva?\" El s-a uitat şi a zis: \"Văd nişte oameni umblând, dar mi se par ca nişte copaci.\" Isus i-a pus din nou mâinile pe ochi; i-a spus să se uite ţintă; şi, când s-a uitat, a fost tămăduit şi a văzut toate lucrurile desluşit. Atunci Isus l-a trimis acasă şi i-a zis: \"Să nu intri în sat şi nici să nu spui cuiva în sat.\"",
+          en: "Mark 8:22-26: And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him. And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, he asked him if he saw ought. And he looked up, and said, I see men as trees, walking. After that he put his hands again upon his eyes, and made him look up: and he was restored, and saw every man clearly. And he sent him away to his house, saying, Neither go into the town, nor tell it to any in the town."
         }
       },
       {
@@ -455,8 +455,8 @@ angular.module('galleryApp', [])
           en: "Healing of the lunatic child"
         },
         text: {
-          ro: "Marcu 9:14-27",
-          en: "Mark 9:14-27"
+          ro: "Marcu 9:14-27: Când au ajuns la ucenici, au văzut mult norod împrejurul lor, şi pe cărturari întrebându-se cu ei. De îndată ce a văzut norodul pe Isus, s-a mirat şi a alergat la El să I se închine. El i-a întrebat: \"Despre ce vă întrebaţi cu ei?\" Şi un om din norod I-a răspuns: \"Învăţătorule, am adus la Tine pe fiul meu care este stăpânit de un duh mut. Oriunde îl apucă, îl trânteşte la pământ. Copilul face spumă la gură, scrâşneşte din dinţi şi rămâne ţeapăn. M-am rugat de ucenicii Tăi să scoată duhul, şi n-au putut.\" \"O, neam necredincios!\", le-a zis Isus. \"Până când voi fi cu voi? Până când vă voi suferi? Aduceţi-l la Mine.\" L-au adus la El. Şi, cum a văzut copilul pe Isus, duhul l-a scuturat cu putere; copilul a căzut la pământ şi se zvârcolea făcând spumă la gură. Isus a întrebat pe tatăl lui: \"Câtă vreme este de când îi vine aşa?\" \"Din copilărie\", a răspuns el. \"Şi de multe ori duhul l-a aruncat când în foc, când în apă, ca să-l omoare. Dar dacă poţi face ceva, fie-Ţi milă de noi şi ajută-ne.\" Isus a răspuns: \"Tu zici: \"Dacă poţi!\"… Toate lucrurile sunt cu putinţă celui ce crede!\" Îndată tatăl copilului a strigat cu lacrimi: \"Cred, Doamne! Ajută necredinţei mele!\" Când a văzut Isus că norodul vine în fuga mare spre El, a mustrat duhul necurat şi i-a zis: \"Duh mut şi surd, îţi poruncesc să ieşi afară din copilul acesta şi să nu mai intri în el.\" Şi duhul a ieşit, ţipând şi scuturându-l cu mare putere. Copilul a rămas ca mort, aşa că mulţi ziceau: \"A murit!\" Dar Isus l-a apucat de mână şi l-a ridicat. Şi el s-a sculat în picioare.",
+          en: "Mark 9:14-27: And when he came to his disciples, he saw a great multitude about them, and the scribes questioning with them. And straightway all the people, when they beheld him, were greatly amazed, and running to him saluted him. And he asked the scribes, What question ye with them? And one of the multitude answered and said, Master, I have brought unto thee my son, which hath a dumb spirit; And wheresoever he taketh him, he teareth him: and he foameth, and gnasheth with his teeth, and pineth away: and I spake to thy disciples that they should cast him out; and they could not. He answereth him, and saith, O faithless generation, how long shall I be with you? how long shall I suffer you? bring him unto me. And they brought him unto him: and when he saw him, straightway the spirit tare him; and he fell on the ground, and wallowed foaming. And he asked his father, How long is it ago since this came unto him? And he said, Of a child. And ofttimes it hath cast him into the fire, and into the waters, to destroy him: but if thou canst do any thing, have compassion on us, and help us. Jesus said unto him, If thou canst believe, all things are possible to him that believeth. And straightway the father of the child cried out, and said with tears, Lord, I believe; help thou mine unbelief. When Jesus saw that the people came running together, he rebuked the foul spirit, saying unto him, Thou dumb and deaf spirit, I charge thee, come out of him, and enter no more into him. And the spirit cried, and rent him sore, and came out of him: and he was as one dead; insomuch that many said, He is dead. But Jesus took him by the hand, and lifted him up; and he arose."
         }
       },
       {
@@ -468,8 +468,8 @@ angular.module('galleryApp', [])
           en: "Coin in the fish's mouth"
         },
         text: {
-          ro: "Matei 17:24-27",
-          en: "Matthew 17:24-27"
+          ro: "Matei 17:24-27: Când au ajuns în Capernaum, cei ce strângeau darea pentru Templu au venit la Petru şi i-au zis: \"Învăţătorul vostru nu plăteşte darea?\" \"Ba da\", a zis Petru. Şi, când a intrat în casă, Isus i-a luat înainte şi i-a zis: \"Ce crezi, Simone? Împăraţii pământului de la cine iau dări sau biruri? De la fiii lor sau de la străini?\" Petru I-a răspuns: \"De la străini.\" Şi Isus i-a zis: \"Aşadar, fiii sunt scutiţi. Dar, ca să nu-i facem să păcătuiască, du-te la mare, aruncă undiţa şi trage afară peştele care va veni întâi; deschide-i gura şi vei găsi în ea o rublă pe care ia-o şi dă-le-o lor, pentru Mine şi pentru tine.\"",
+          en: "Matthew 17:24-27: And when they were come to Capernaum, they that received tribute money came to Peter, and said, Doth not your master pay tribute? He saith, Yes. And when he was come into the house, Jesus prevented him, saying, What thinkest thou, Simon? of whom do the kings of the earth take custom or tribute? of their own children, or of strangers? Peter saith unto him, Of strangers. Jesus saith unto him, Then are the children free. Notwithstanding, lest we should offend them, go thou to the sea, and cast an hook, and take up the fish that first cometh up; and when thou hast opened his mouth, thou shalt find a piece of money: that take, and give unto them for me and thee."
         }
       },
       {
@@ -494,8 +494,8 @@ angular.module('galleryApp', [])
           en: "Healing the woman with a bent back"
         },
         text: {
-          ro: "Luca 13:10-13 (14-16?)",
-          en: "Luke 13:10-13 (14-16?)"
+          ro: "Luca 13:10-13: Isus învăţa pe norod într-o sinagogă în ziua Sabatului. Şi acolo era o femeie stăpânită de optsprezece ani de un duh de neputinţă; era gârbovă şi nu putea nicidecum să-şi îndrepte spatele. Când a văzut-o Isus, a chemat-o şi i-a zis: \"Femeie, eşti dezlegată de neputinţa ta.\" Şi-a întins mâinile peste ea: îndată s-a îndreptat şi slăvea pe Dumnezeu.",
+          en: "Luke 13:10-13: And he was teaching in one of the synagogues on the sabbath. And, behold, there was a woman which had a spirit of infirmity eighteen years, and was bowed together, and could in no wise lift up herself. And when Jesus saw her, he called her to him, and said unto her, Woman, thou art loosed from thine infirmity. And he laid his hands on her: and immediately she was made straight, and glorified God."
         }
       },
       {
@@ -507,8 +507,8 @@ angular.module('galleryApp', [])
           en: "Healing a man with dropsy"
         },
         text: {
-          ro: "Luca 14:1-4 (5-6?)",
-          en: "Luke 14:1-4 (5-6?)"
+          ro: "Luca 14:1-4: Într-o zi de Sabat, Isus a intrat în casa unuia din fruntaşii fariseilor, ca să prânzească. Fariseii Îl pândeau de aproape. Şi înaintea Lui era un om bolnav de dropică. Isus a luat cuvântul şi a zis învăţătorilor Legii şi fariseilor: \"Oare este îngăduit a vindeca în ziua Sabatului sau nu?\" Ei tăceau. Atunci Isus a luat de mână pe omul acela, l-a vindecat şi i-a dat drumul.",
+          en: "Luke 14:1-4: And it came to pass, as he went into the house of one of the chief Pharisees to eat bread on the sabbath day, that they watched him. And, behold, there was a certain man before him which had the dropsy. And Jesus answering spake unto the lawyers and Pharisees, saying, Is it lawful to heal on the sabbath day? And they held their peace. And he took him, and healed him, and let him go;"
         }
       },
       {
@@ -520,8 +520,8 @@ angular.module('galleryApp', [])
           en: "Cleansing ten lepers"
         },
         text: {
-          ro: "Luca 17:11-19",
-          en: "Luke 17:11-19"
+          ro: "Luca 17:11-19: Isus mergea spre Ierusalim şi a trecut printre Samaria şi Galileea. Pe când intra într-un sat, L-au întâmpinat zece leproşi. Ei au stat departe, şi-au ridicat glasul şi au zis: \"Isuse, Învăţătorule, ai milă de noi!\" Când i-a văzut Isus, le-a zis: \"Duceţi-vă şi arătaţi-vă preoţilor!\" Şi pe când se duceau, au fost curăţaţi. Unul din ei, când s-a văzut vindecat, s-a întors, slăvind pe Dumnezeu cu glas tare. S-a aruncat cu faţa la pământ la picioarele lui Isus şi I-a mulţumit. Era samaritean. Isus a luat cuvântul şi a zis: \"Oare n-au fost curăţaţi toţi cei zece? Dar ceilalţi nouă unde sunt? Nu s-a găsit decât străinul acesta să se întoarcă şi să dea slavă lui Dumnezeu?\" Apoi i-a zis: \"Scoală-te şi pleacă; credinţa ta te-a mântuit.\"",
+          en: "Luke 17:11-19: And it came to pass, as he went to Jerusalem, that he passed through the midst of Samaria and Galilee. And as he entered into a certain village, there met him ten men that were lepers, which stood afar off: And they lifted up their voices, and said, Jesus, Master, have mercy on us. And when he saw them, he said unto them, Go shew yourselves unto the priests. And it came to pass, that, as they went, they were cleansed. And one of them, when he saw that he was healed, turned back, and with a loud voice glorified God, And fell down on his face at his feet, giving him thanks: and he was a Samaritan. And Jesus answering said, Were there not ten cleansed? but where are the nine? There are not found that returned to give glory to God, save this stranger. And he said unto him, Arise, go thy way: thy faith hath made thee whole."
         }
       },
       {
