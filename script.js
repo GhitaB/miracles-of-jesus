@@ -572,8 +572,8 @@ angular.module('galleryApp', [])
           en: "Restoring the ear of Malhu"
         },
         text: {
-          ro: "Luca 22:47-51?",
-          en: "Luke 22:47-51?"
+          ro: "Luca 22:47-51: Pe când grăia El încă, iată că a venit o gloată. Şi cel ce se chema Iuda, unul din cei doisprezece, mergea în fruntea lor. El s-a apropiat de Isus, ca să-L sărute. Şi Isus i-a zis: \"Iudo, cu o sărutare vinzi tu pe Fiul omului?\" Cei ce erau cu Isus, au văzut ce avea să se întâmple şi au zis: \"Doamne, să lovim cu sabia?\" Şi unul din ei a lovit pe robul marelui preot şi i-a tăiat urechea dreaptă. Dar Isus a luat cuvântul şi a zis: \"Lăsaţi-i! Până aici!\" Şi S-a atins de urechea omului aceluia şi l-a vindecat.",
+          en: "Luke 22:47-51: And while he yet spake, behold a multitude, and he that was called Judas, one of the twelve, went before them, and drew near unto Jesus to kiss him. But Jesus said unto him, Judas, betrayest thou the Son of man with a kiss? When they which were about him saw what would follow, they said unto him, Lord, shall we smite with the sword? And one of them smote the servant of the high priest, and cut off his right ear. And Jesus answered and said, Suffer ye thus far. And he touched his ear, and healed him."
         }
       },
       {
