@@ -566,7 +566,7 @@ angular.module('galleryApp', [])
       {
         id: 34,
         img: '34.png',
-        done: 55,
+        done: 100,
         title: {
           ro: "Vindecarea urechii lui Malhu",
           en: "Restoring the ear of Malhu"
