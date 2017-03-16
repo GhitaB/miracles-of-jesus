@@ -546,8 +546,8 @@ angular.module('galleryApp', [])
           en: "Two blind beggars restored to sight"
         },
         text: {
-          ro: "Matei 20:29-34 & Marcu 10:46-52?",
-          en: "Matthew 20:29-34 & Mark 10:46-52?"
+          ro: "Marcu 10:46-52: Au ajuns la Ierihon. Şi pe când ieşea Isus din Ierihon cu ucenicii Săi şi cu o mare mulţime de oameni, fiul lui Timeu, Bartimeu, un cerşetor orb, şedea jos lângă drum şi cerea de milă. El a auzit că trece Isus din Nazaret şi a început să strige: \"Isuse, Fiul lui David, ai milă de mine!\" Mulţi îl certau să tacă; dar el şi mai tare striga: \"Fiul lui David, ai milă de mine!\" Isus S-a oprit şi a zis: \"Chemaţi-l!\" Au chemat pe orb şi i-au zis: \"Îndrăzneşte, scoală-te, căci te cheamă.\" Orbul şi-a aruncat haina; a sărit şi a venit la Isus. Isus a luat cuvântul şi i-a zis: \"Ce vrei să-ţi fac?\" \"Rabuni\", I-a răspuns orbul, \"să capăt vederea.\" Şi Isus i-a zis: \"Du-te, credinţa ta te-a mântuit.\" Îndată orbul şi-a căpătat vederea şi a mers pe drum după Isus.",
+          en: "Mark 10:46-52: 46 And they came to Jericho: and as he went out of Jericho with his disciples and a great number of people, blind Bartimaeus, the son of Timaeus, sat by the highway side begging. And when he heard that it was Jesus of Nazareth, he began to cry out, and say, Jesus, thou Son of David, have mercy on me. And many charged him that he should hold his peace: but he cried the more a great deal, Thou Son of David, have mercy on me. And Jesus stood still, and commanded him to be called. And they call the blind man, saying unto him, Be of good comfort, rise; he calleth thee. And he, casting away his garment, rose, and came to Jesus. And Jesus answered and said unto him, What wilt thou that I should do unto thee? The blind man said unto him, Lord, that I might receive my sight. And Jesus said unto him, Go thy way; thy faith hath made thee whole. And immediately he received his sight, and followed Jesus in the way."
         }
       },
       {
