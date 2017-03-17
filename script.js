@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 51;  // EDIT HERE
+    gallery.worked_hours = 51.25;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -137,7 +137,7 @@ angular.module('galleryApp', [])
       {
         id: 1,
         img: '01.png',
-        done: 30,
+        done: 40,
         title: {
           ro: "Apa transformată în vin",
           en: "Changing water into wine"
