@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 56;  // EDIT HERE
+    gallery.worked_hours = 56.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -150,7 +150,7 @@ angular.module('galleryApp', [])
       {
         id: 2,
         img: '02.png',
-        done: 60,
+        done: 65,
         title: {
           ro: "Vindecarea fiului slujbașului împărătesc",
           en: "Healing of the royal official's son"
