@@ -175,8 +175,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 4,
-        img: '04.jpg',
-        done: 30,
+        img: '04.png',
+        done: 50,
         title: {
           ro: "Vindecarea leprosului",
           en: "Healing a leper"
