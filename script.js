@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 57;  // EDIT HERE
+    gallery.worked_hours = 58;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -163,7 +163,7 @@ angular.module('galleryApp', [])
       {
         id: 3,
         img: '03.png',
-        done: 30,
+        done: 50,
         title: {
           ro: "Pescuirea minunată",
           en: "Catching a large number of fish"
