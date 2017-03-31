@@ -188,7 +188,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 5,
-        img: '05.jpg',
+        img: '05.png',
         done: 50,
         title: {
           ro: "Vindecarea robului sutașului roman",
