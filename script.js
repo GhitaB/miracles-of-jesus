@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 62;  // EDIT HERE
+    gallery.worked_hours = 62.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -487,8 +487,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 28,
-        img: '28.jpg',
-        done: 30,
+        img: '28.png',
+        done: 100,
         title: {
           ro: "Vindecarea femeii gârbove",
           en: "Healing the woman with a bent back"
