@@ -513,7 +513,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 30,
-        img: '30.jpg',
+        img: '30.png',
         done: 50,
         title: {
           ro: "Vindecarea celor zece leproși",
