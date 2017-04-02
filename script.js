@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 64.75;  // EDIT HERE
+    gallery.worked_hours = 65;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -462,7 +462,7 @@ angular.module('galleryApp', [])
       {
         id: 26,
         img: '26.png',
-        done: 30,
+        done: 50,
         title: {
           ro: "Moneda din gura peștelui",
           en: "Coin in the fish's mouth"
