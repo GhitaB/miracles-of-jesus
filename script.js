@@ -214,7 +214,7 @@ angular.module('galleryApp', [])
       },
       {
         id: 7,
-        img: '07.jpg',
+        img: '07.png',
         done: 50,
         title: {
           ro: "Vindecarea îndrăcitului la Capernaum",
