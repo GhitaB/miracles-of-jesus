@@ -448,8 +448,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 25,
-        img: '25.jpg',
-        done: 30,
+        img: '25.png',
+        done: 50,
         title: {
           ro: "Vindecarea unui copil lunatic",
           en: "Healing of the lunatic child"
