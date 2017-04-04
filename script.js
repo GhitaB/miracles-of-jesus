@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 68.5;  // EDIT HERE
+    gallery.worked_hours = 69.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -202,7 +202,7 @@ angular.module('galleryApp', [])
       {
         id: 6,
         img: '06.png',
-        done: 50,
+        done: 100,
         title: {
           ro: "Învierea fiului văduvei din Nain",
           en: "Raising of the son of the widow of Nain"
