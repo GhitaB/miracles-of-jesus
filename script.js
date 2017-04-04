@@ -228,7 +228,7 @@ angular.module('galleryApp', [])
       {
         id: 8,
         img: '08.png',
-        done: 65,
+        done: 100,
         title: {
           ro: "Vindecarea soacrei lui Petru",
           en: "Healing of Peter's mother-in-law"
