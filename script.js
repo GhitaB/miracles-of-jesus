@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 73.5;  // EDIT HERE
+    gallery.worked_hours = 74.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -514,7 +514,7 @@ angular.module('galleryApp', [])
       {
         id: 30,
         img: '30.png',
-        done: 50,
+        done: 100,
         title: {
           ro: "Vindecarea celor zece leproși",
           en: "Cleansing ten lepers"
