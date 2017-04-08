@@ -358,7 +358,7 @@ angular.module('galleryApp', [])
       {
         id: 18,
         img: '18.png',
-        done: 30,
+        done: 50,
         title: {
           ro: "Vindecarea unui mut îndrăcit",
           en: "Healing the blind and dumb possessed"
