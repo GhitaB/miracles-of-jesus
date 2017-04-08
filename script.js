@@ -293,7 +293,7 @@ angular.module('galleryApp', [])
       {
         id: 13,
         img: '13.png',
-        done: 30,
+        done: 50,
         title: {
           ro: "Potolirea furtunii",
           en: "Calming the storm"
