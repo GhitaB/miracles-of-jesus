@@ -305,8 +305,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 14,
-        img: '14.jpg',
-        done: 30,
+        img: '14.png',
+        done: 50,
         title: {
           ro: "Vindecarea celor doi îndrăciți",
           en: "Healing two demon-possessed Men"
