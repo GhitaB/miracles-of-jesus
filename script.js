@@ -345,7 +345,7 @@ angular.module('galleryApp', [])
       {
         id: 17,
         img: '17.png',
-        done: 30,
+        done: 50,
         title: {
           ro: "Vindecarea celor doi orbi",
           en: "Healing of the two blind men"
