@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 80;  // EDIT HERE
+    gallery.worked_hours = 80.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -124,7 +124,7 @@ angular.module('galleryApp', [])
       {
         id: 0,
         img: '00.png',
-        done: 90,
+        done: 100,
         title: {
           ro: "Coperta",
           en: "Cover"
