@@ -126,7 +126,7 @@ angular.module('galleryApp', [])
         img: '00.png',
         done: 70,
         title: {
-          ro: "Coperta"
+          ro: "Coperta",
           en: "Cover"
         },
         text: {
