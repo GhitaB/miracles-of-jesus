@@ -384,7 +384,7 @@ angular.module('galleryApp', [])
       {
         id: 20,
         img: '20.png',
-        done: 30,
+        done: 50,
         title: {
           ro: "Umblarea pe mare",
           en: "Walking on water"
