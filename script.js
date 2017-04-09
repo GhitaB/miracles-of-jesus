@@ -370,8 +370,8 @@ angular.module('galleryApp', [])
       },
       {
         id: 19,
-        img: '19.jpg',
-        done: 30,
+        img: '19.png',
+        done: 50,
         title: {
           ro: "Hrănirea celor cinci mii de oameni",
           en: "The feeding of the 5000"
