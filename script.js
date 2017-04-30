@@ -3,7 +3,7 @@ angular.module('galleryApp', [])
     var gallery = this;
     gallery.language = "ro";
     gallery.work_start_date = new Date(2017,02,12);
-    gallery.worked_hours = 84;  // EDIT HERE
+    gallery.worked_hours = 84.5;  // EDIT HERE
 
     gallery.get_global_progress = function() {
       var index;
@@ -345,7 +345,7 @@ angular.module('galleryApp', [])
       {
         id: 17,
         img: '17.png',
-        done: 50,
+        done: 100,
         title: {
           ro: "Vindecarea celor doi orbi",
           en: "Healing of the two blind men"
