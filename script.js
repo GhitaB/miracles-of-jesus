@@ -462,7 +462,7 @@ angular.module('galleryApp', [])
       {
         id: 26,
         img: '26.png',
-        done: 50,
+        done: 100,
         title: {
           ro: "Moneda din gura peștelui",
           en: "Coin in the fish's mouth"
