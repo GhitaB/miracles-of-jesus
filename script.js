@@ -1,7 +1,7 @@
 angular.module('galleryApp', [])
   .controller('galleryController', function() {
     var gallery = this;
-    gallery.language = "ro";
+    gallery.language = "en";
     gallery.work_start_date = new Date(2017,02,12);
     gallery.worked_hours = 90;  // EDIT HERE
 
